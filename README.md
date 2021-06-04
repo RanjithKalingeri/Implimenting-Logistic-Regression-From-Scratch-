@@ -21,13 +21,13 @@ It is a good database for people who want to try learning techniques and pattern
 source adding still in progress.. 
 
 ### -------------------------------------------------------------------------------------------------------
-## project Name :	           Implimenting KNN From Scratch 
+## project Name :	           Implimenting Logistic Regression From Scratch
 ## Developer Name :	         Ranjith Kalingeri - 9182522753 - ranji.iitb@gmail.com - doing MTECH in CS in IIIAllahabad as of 02-06-2021. 
 ## Upload Date :	           04-06-2021
 ## project Platform :        Python
 ## Programming Language :    Python
 ## IDE Tool :	               Google Collab
 ## DataSet :	               MNIST
-## project Type :	           Machine Learning Application -  KNN
+## project Type :	           Machine Learning Application -  Logistic Regression
 ## Operating system :        windows 10 
 ## Licence          :        It is My personal project and I am opensourcing it. Feel free to download, add more features and send pull request.
