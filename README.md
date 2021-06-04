@@ -1,7 +1,10 @@
 ## Description 
 
-1. KNN is Implimented From Scratch Using Python Programming Language on MNIST Data Set 
-2. A comparitive study on Classification Rate Vs Different values of K is done 
+1. Logistic Regression is Implimented From Scratch Using Python Programming Language 
+2. Logistic Regression is Implimented Using MNIST Data Set 
+3. Behaviour of Loss of model(with normal cost function) with respect to Number of Epoch is analysed
+4. Behaviour of Loss of Model(with L2 Regularized cost function) with respect to different value of λ = 0, 0.001, 0.01, 0.1, 1.0 and number of epochs is analyzed.    
+5. Behaviour of Loss of Model(with L2 Regularized cost function) with respect to different value of λ = 0, 0.001, 0.01, 0.1, 1.0 and Learning Rate is analyzed .  
 
 ## Screen Shots 
 
